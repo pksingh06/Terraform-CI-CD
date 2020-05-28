@@ -16,3 +16,4 @@ variable "vnet-address" {
 variable "vnet-peer" {
   type = list(string)
 }
+
